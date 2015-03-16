@@ -7,6 +7,10 @@ This is a list of resources for functional programming in JavaScript. Please fee
 + [**David Nolen** - Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4)
 + [**John-David Dalton** - Unorthodox Performance](https://www.youtube.com/watch?v=NthmeLEhDDM)
 
+## Blog Posts
++ [**Eloquent JavaScript** - Functional Programming](http://eloquentjavascript.net/1st_edition/chapter6.html)
++ [**Jafar Husain** - Functional Programming in Javascript](http://jhusain.github.io/learnrx/)
+
 ## Libraries
 + [**Underscore** - JavaScript's utility belt](https://github.com/jashkenas/underscore)
 + [**Lodash** - A JavaScript utility library delivering consistency, modularity, performance, & extras](https://github.com/lodash/lodash)
@@ -16,3 +20,6 @@ This is a list of resources for functional programming in JavaScript. Please fee
 
 ## Books
 + [**Michael Fogus** - Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do)
+
+## Premium
++ [**Front End Masters** - Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/)
