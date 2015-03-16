@@ -17,6 +17,9 @@ This is a list of resources for functional programming in JavaScript. Please fee
 + [**Ramda** - Practical functional Javascript](https://github.com/ramda/ramda)
 + [**RxJS** - The Reactive Extensions for JavaScript](https://github.com/Reactive-Extensions/RxJS)
 + [**BaconJS** - FRP (functional reactive programming) library for Javascript](https://github.com/baconjs/bacon.js/)
++ [**wu.js** - JavaScript library providing higher order functions for ES6 iterators](https://github.com/fitzgen/wu.js)
++ [**fn.js** - A JavaScript library built to encourage a functional programming style & strategy](https://github.com/eliperelman/fn.js)
++ [**Fantasy Land** - Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
 
 ## Books
 + [**Michael Fogus** - Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do)
