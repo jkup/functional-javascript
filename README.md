@@ -14,6 +14,9 @@ This is a list of resources for functional programming in JavaScript. Please fee
 + [**Jafar Husain** - Functional Programming in Javascript](http://jhusain.github.io/learnrx/)
 + [**Eric Elliott** - The Two Pillars of JavaScript — Pt 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 
+## Exercises
++ [**Functional Programming in Javascript** - A series of interactive exercises for learning Microsoft's Reactive Extensions Library for Javascript](https://jhusain.github.io/learnrx/)
+
 ## Libraries
 + [**Underscore** - JavaScript's utility belt](https://github.com/jashkenas/underscore)
 + [**Lodash** - A JavaScript utility library delivering consistency, modularity, performance, & extras](https://github.com/lodash/lodash)
