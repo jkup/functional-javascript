@@ -7,6 +7,7 @@ This is a list of resources for functional programming in JavaScript. Please fee
 + [**David Nolen** - Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4)
 + [**John-David Dalton** - Unorthodox Performance](https://www.youtube.com/watch?v=NthmeLEhDDM)
 + [**Jafar Husain** - Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A)
++ [**Brian Lonsdorf** - Functional programming patterns for the non-mathematician](https://www.youtube.com/watch?v=AvgwKjTPMmM)
 
 ## Blog Posts
 + [**Eloquent JavaScript** - Functional Programming](http://eloquentjavascript.net/1st_edition/chapter6.html)
