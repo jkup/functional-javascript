@@ -28,5 +28,14 @@ This is a list of resources for functional programming in JavaScript. Please fee
 + [**Michael Fogus** - Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do)
 + [**Reginald Braithwaite** - JavaScript Allongé](https://leanpub.com/javascript-allonge)
 
+## People
++ [David Nolen](https://twitter.com/swannodette)
++ [Brian Lonsdorf](https://twitter.com/drboolean)
++ [Jeremy Ashkenas](https://twitter.com/jashkenas)
++ [Michael Fogus](https://twitter.com/fogus)
++ [John-David Dalton](https://twitter.com/jdalton)
++ [Jafar Husain](https://twitter.com/jhusain)
+
+
 ## Premium
 + [**Front End Masters** - Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/)
