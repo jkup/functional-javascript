@@ -13,6 +13,7 @@ This is a list of resources for functional programming in JavaScript. Please fee
 + [**Eloquent JavaScript** - Functional Programming](http://eloquentjavascript.net/1st_edition/chapter6.html)
 + [**Jafar Husain** - Functional Programming in Javascript](http://jhusain.github.io/learnrx/)
 + [**Eric Elliott** - The Two Pillars of JavaScript — Pt 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
++ [**Minko Gechev** - Functional Programming with JavaScript](http://blog.mgechev.com/2013/01/21/functional-programming-with-javascript/)
 
 ## Libraries
 + [**Underscore** - JavaScript's utility belt](https://github.com/jashkenas/underscore)
