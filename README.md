@@ -4,15 +4,16 @@ This is a list of resources for functional programming in JavaScript. Please fee
 
 ## Videos
 
-### Free
-+ [**Egghead.io** - Asynchronous Programming: The End of The Loop](https://egghead.io/series/mastering-asynchronous-programming-the-end-of-the-loop)
+#### Free
 + [**Brian Lonsdorf** - Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
 + [**David Nolen** - Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4)
 + [**John-David Dalton** - Unorthodox Performance](https://www.youtube.com/watch?v=NthmeLEhDDM)
 + [**Jafar Husain** - Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A)
 + [**Brian Lonsdorf** - Functional programming patterns for the non-mathematician](https://www.youtube.com/watch?v=AvgwKjTPMmM)
++ [**Egghead.io** - Asynchronous Programming: The End of The Loop](https://egghead.io/series/mastering-asynchronous-programming-the-end-of-the-loop)
++ [**James Coglan** - Practical functional programming: pick two](https://www.youtube.com/watch?v=XcS-LdEBUkE)
 
-### Premium
+#### Premium
 + [**Front End Masters** - JavaScript: From Fundamentals to Functional JS](https://frontendmasters.com/courses/js-fundamentals-to-functional/)
 + [**Front End Masters** - Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/)
 
