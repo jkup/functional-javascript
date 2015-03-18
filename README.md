@@ -16,6 +16,8 @@ This is a list of resources for functional programming in JavaScript. Please fee
 #### Premium
 + [**Front End Masters** - JavaScript: From Fundamentals to Functional JS](https://frontendmasters.com/courses/js-fundamentals-to-functional/)
 + [**Front End Masters** - Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/)
++ [**Pluralsight** - Underscore.js Fundamentals](http://www.pluralsight.com/courses/underscore-fundamentals)
+
 
 ## Blog Posts
 + [**Eloquent JavaScript** - Functional Programming](http://eloquentjavascript.net/1st_edition/chapter6.html)
