@@ -24,6 +24,7 @@ This is a list of resources for functional programming in JavaScript. Please fee
 
 ## Exercises
 + [**Functional Programming in Javascript** - A series of interactive exercises for learning Microsoft's Reactive Extensions Library for Javascript](https://jhusain.github.io/learnrx/)
++ [**Nodeschool Functional Javascript Workshop** - A functional Javascript workshop. No libraries required (i.e. no underscore), just ES5.](https://github.com/timoxley/functional-javascript-workshop)
 
 ## Libraries
 + [**Underscore** - JavaScript's utility belt](https://github.com/jashkenas/underscore)
