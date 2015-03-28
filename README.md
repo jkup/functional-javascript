@@ -37,6 +37,7 @@ This is a list of resources for functional programming in JavaScript. Please fee
 + [**wu.js** - JavaScript library providing higher order functions for ES6 iterators](https://github.com/fitzgen/wu.js)
 + [**fn.js** - A JavaScript library built to encourage a functional programming style & strategy](https://github.com/eliperelman/fn.js)
 + [**Fantasy Land** - Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
++ [**transducers-js**](https://github.com/cognitect-labs/transducers-js) - composable algorithmic transformations that make it possible to compose map, filter etc. without creating intermediary data structures. Compatible with underscore/lodash/Immutable.js/ES6 collections etc.
 
 ## Books
 + [**Michael Fogus** - Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do)
