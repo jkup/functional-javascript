@@ -42,6 +42,7 @@ This is a list of resources for functional programming in JavaScript. Please fee
 ## Books
 + [**Michael Fogus** - Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do)
 + [**Reginald Braithwaite** - JavaScript Allongé](https://leanpub.com/javascript-allonge)
++ [**Brian Lonsdorf** - Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
 ## People
 + [David Nolen](https://twitter.com/swannodette)
