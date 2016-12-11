@@ -15,6 +15,7 @@ This is a list of resources for functional programming in JavaScript. Please fee
 + [**Mattias Petter Johansson** - Functional Programming in Javascript](https://www.youtube.com/watch?v=BMUiFMZr7vk)
 
 #### Premium
++ [**Egghead.io** - Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 + [**Front End Masters** - JavaScript: From Fundamentals to Functional JS](https://frontendmasters.com/courses/js-fundamentals-to-functional/)
 + [**Front End Masters** - Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/)
 + [**Pluralsight** - Underscore.js Fundamentals](http://www.pluralsight.com/courses/underscore-fundamentals)
