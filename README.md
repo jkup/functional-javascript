@@ -25,6 +25,7 @@ This is a list of resources for functional programming in JavaScript. Please fee
 + [**Eloquent JavaScript** - Functional Programming](http://eloquentjavascript.net/1st_edition/chapter6.html)
 + [**Eric Elliott** - The Two Pillars of JavaScript — Pt 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 + [**Minko Gechev** - Functional Programming with JavaScript](http://blog.mgechev.com/2013/01/21/functional-programming-with-javascript/)
++ [Functions in JavaScript](https://www.scaler.com/topics/javascript/javascript-functions/)
 
 ## Exercises
 + [**Functional Programming in Javascript** - A series of interactive exercises for learning Microsoft's Reactive Extensions Library for Javascript](https://jhusain.github.io/learnrx/)
